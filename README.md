@@ -1,0 +1,2 @@
+# FOSUserBundle-
+Registration with FOSUserBundle
